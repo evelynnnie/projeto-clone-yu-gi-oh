@@ -6,19 +6,11 @@ Um simples jogo de cartas inspirado no universo de Yu-Gi-Oh!, desenvolvido com t
 
 ## 🎮 Sobre o Jogo
 
-Este é um clone simplificado do famoso jogo de cartas Yu-Gi-Oh!. O objetivo é criar uma experiência de duelo de jogador contra computador, utilizando cartas com diferentes atributos de ataque e defesa.
-
+Este é um clone simplificado do famoso jogo de cartas Yu-Gi-Oh!.
 > **Screenshot do Jogo**
 > 
 > ![Screenshot do Jogo](./docs/screenshot.png)
 
-## ✨ Funcionalidades
-
--   **Duelo Player vs. Machine:** Enfrente o computador em um duelo de cartas.
--   **Sistema de Pontuação:** Acompanhe os pontos de vida de ambos os jogadores.
--   **Seleção de Cartas:** Escolha uma carta para batalhar a cada rodada.
--   **Efeitos Sonoros:** Áudios que tornam a experiência mais imersiva.
--   **Interface Intuitiva:** Design inspirado no jogo original.
 
 ## 🛠️ Tecnologias Utilizadas
 
